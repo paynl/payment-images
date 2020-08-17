@@ -8,7 +8,6 @@
 A place where we store images for public use. Contains images for payment methods and brands.
 
 - [Description](#description)
-- [Usage](#usage)
 - [Support](#support)
 
 # Support
