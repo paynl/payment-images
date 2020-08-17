@@ -11,10 +11,6 @@ A place where we store images for public use. Contains images for payment method
 - [Usage](#usage)
 - [Support](#support)
 
-# Usage
-
-**More information on this plugin can be found on https://docs.pay.nl/**
-
 # Support
 https://www.pay.nl
 
