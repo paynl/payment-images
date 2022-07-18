@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/51791834/179518312-6a36d098-fcba-4567-9a0e-e6078cf9c757.png"/>
+<img height="400px" src="https://www.pay.nl/hubfs/25758250/images/Pay%20Logo%20-%20RGB_Primary%20Logo.png?t=1658149930330"/>
 </p>
 
 
