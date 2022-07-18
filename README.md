@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://www.pay.nl/uploads/1/brands/main_logo.png" />
+<img src="https://user-images.githubusercontent.com/51791834/179518312-6a36d098-fcba-4567-9a0e-e6078cf9c757.png"/>
 </p>
+
+
 <h1 align="center">Payment Images</h1>
 
 # Description
