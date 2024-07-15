@@ -1,22 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Laag_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#EFEFEF;}
-	.st1{fill:#020203;}
-	.st2{fill:#020203;stroke:#010202;stroke-width:4;stroke-miterlimit:10;}
-	.st3{fill:none;}
-	.st4{fill:#020203;stroke:#020203;stroke-width:0.5;stroke-miterlimit:10;}
-	.st5{fill:none;stroke:#020203;stroke-width:2;stroke-miterlimit:10;}
-	.st6{fill:#020203;stroke:#020203;stroke-width:2;stroke-miterlimit:10;}
-	.st7{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.25;stroke-miterlimit:10;}
-</style>
-<path class="st0" d="M921,1080H159c-87.81,0-159-71.19-159-159V159C0,71.19,71.19,0,159,0H921c87.81,0,159,71.19,159,159V921
-	C1080,1008.81,1008.81,1080,921,1080z"/>
-<rect x="590.62" y="587.14" class="st1" width="28.24" height="28.24"/>
-<path class="st1" d="M675.35,460.04H336.42v-42.37h310.69v-28.24H336.42c-15.6,0-28.24,12.65-28.24,28.24v296.56
-	c0,15.6,12.65,28.24,28.24,28.24h338.93c15.6,0,28.24-12.65,28.24-28.24V488.29C703.6,472.69,690.95,460.04,675.35,460.04z
-	 M336.42,714.24V488.29h338.93v42.37H562.38c-15.6,0-28.24,12.65-28.24,28.24v84.73c0,15.6,12.65,28.24,28.24,28.24h112.98v42.37
-	H336.42z M675.35,558.9v84.73H562.38V558.9H675.35z"/>
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="1078" height="1078" rx="99" fill="white" stroke="#DBDBDB" stroke-width="2"/>
+<circle cx="540" cy="540" r="367" fill="#DEDFFF"/>
+<path d="M707.373 582.607H665.436V624.545H707.373V582.607Z" fill="#585FFF"/>
+<path d="M791.262 393.859H287.938V330.938H749.325V289H287.938C264.771 289 246 307.786 246 330.938V771.341C246 794.508 264.786 813.279 287.938 813.279H791.262C814.429 813.279 833.2 794.493 833.2 771.341V435.811C833.215 412.645 814.429 393.859 791.262 393.859ZM287.938 771.356V435.811H791.262V498.732H623.497C600.331 498.732 581.56 517.518 581.56 540.67V666.497C581.56 689.664 600.346 708.435 623.497 708.435H791.277V771.356H287.938ZM791.262 540.67V666.497H623.497V540.67H791.262Z" fill="#585FFF"/>
+<rect x="7.5" y="7.5" width="1065" height="1065" rx="92.5" stroke="#DBDBDB" stroke-width="15"/>
 </svg>
