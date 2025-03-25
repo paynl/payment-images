@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_1" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: url(#Naamloos_verloop_2);
+      }
+
+      .cls-3 {
+        fill: url(#Naamloos_verloop_6);
+      }
+    </style>
+    <radialGradient id="Naamloos_verloop_2" data-name="Naamloos verloop 2" cx="0" cy="0" fx="0" fy="0" r="1" gradientTransform="translate(48.33 29) scale(51.08 -57.66)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fc0"/>
+      <stop offset=".09" stop-color="#ffc800"/>
+      <stop offset=".17" stop-color="#ffbd00"/>
+      <stop offset=".25" stop-color="#ffab00"/>
+      <stop offset=".33" stop-color="#ff9100"/>
+      <stop offset=".4" stop-color="#ff7000"/>
+      <stop offset=".48" stop-color="#ff4700"/>
+      <stop offset=".55" stop-color="#ff1800"/>
+      <stop offset=".58" stop-color="red"/>
+      <stop offset="1" stop-color="red"/>
+    </radialGradient>
+    <radialGradient id="Naamloos_verloop_6" data-name="Naamloos verloop 6" cx="43.03" cy="-631.06" fx="43.03" fy="-631.06" r=".93" gradientTransform="translate(-2155.09 48272.6) scale(50.49 76.44)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00b4e6"/>
+      <stop offset=".2" stop-color="#00b0e3"/>
+      <stop offset=".39" stop-color="#01a5db"/>
+      <stop offset=".57" stop-color="#0292cd"/>
+      <stop offset=".75" stop-color="#0377ba"/>
+      <stop offset=".93" stop-color="#0455a1"/>
+      <stop offset="1" stop-color="#054696"/>
+    </radialGradient>
+  </defs>
+  <path class="cls-1" d="M10,0h78.79c6.19,0,11.21,5.02,11.21,11.21v77.58c0,6.19-5.02,11.21-11.21,11.21H11.21c-6.19,0-11.21-5.02-11.21-11.21V10C0,4.48,4.48,0,10,0Z"/>
+  <g>
+    <path class="cls-2" d="M73.71,47.67l-11.06,16.26-5.67-8.67,6.53-9.8c1.2-1.73,3.8-6.53.8-13.06-2.4-5.33-7.67-7.87-12.33-7.87s-9.67,2.4-12.33,7.87c-3.07,6.33-.4,11.2.73,12.86,0,0,3.67,5.33,6.67,9.8l4.93,7.13,7.4,11.33c.07.07,1.2,1.87,3.27,1.87,1.93,0,3.2-1.8,3.33-1.93l17.33-25.66h-9.6v-.13h0ZM51.91,48.07s-2.87-4.4-4.8-7.47c-2-3.27.2-8.2,4.8-8.2s6.8,4.93,4.8,8.2c-1.87,3.07-4.8,7.47-4.8,7.47Z"/>
+    <path class="cls-3" d="M41.31,63.4l-10.86-15.26s-2.87-4.4-4.8-7.47c-2-3.27.2-8.2,4.8-8.2.6,0,1.07.07,1.6.2l3.8-7c-1.73-.73-3.67-1.13-5.4-1.13-4.6,0-9.67,2.4-12.33,7.87-3.07,6.33-.4,11.2.73,12.86l19,28.2c.2.2,1.4,2,3.4,2s3.2-1.73,3.33-1.93l5.73-8.73-4.93-7.2-4.07,5.8h0Z"/>
+  </g>
+</svg>
