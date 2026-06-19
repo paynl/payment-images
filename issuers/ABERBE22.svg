@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #234186;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #708ea0;
+      }
+
+      .cls-5 {
+        fill: #15576b;
+      }
+
+      .cls-6 {
+        fill: #0c1c3f;
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-1" d="M11.484,0h77.032c6.343,0,11.484,5.142,11.484,11.484v77.032c0,6.343-5.142,11.484-11.484,11.484H11.484c-6.343,0-11.484-5.142-11.484-11.484V11.484C0,5.142,5.142,0,11.484,0Z"/>
+    </clipPath>
+  </defs>
+  <g id="Basis">
+    <path class="cls-3" d="M11.484,0h77.032c6.343,0,11.484,5.142,11.484,11.484v77.032c0,6.343-5.142,11.484-11.484,11.484H11.484c-6.343,0-11.484-5.142-11.484-11.484V11.484C0,5.142,5.142,0,11.484,0Z"/>
+  </g>
+  <g id="Laag_1" data-name="Laag 1">
+    <g class="cls-7">
+      <g id="GpQPkl.tif">
+        <g>
+          <polygon class="cls-5" points="-.317 100.121 -.317 54.178 32.386 25.738 59.096 38.649 38.78 100.13 -.317 100.121"/>
+          <polygon class="cls-2" points="100.405 57.248 100.405 100.121 46.027 100.113 65.855 40.84 100.405 57.248"/>
+          <polygon class="cls-6" points="63.028 -.404 100.405 -.404 100.405 48.776 41.011 19.468 63.028 -.404"/>
+          <polygon class="cls-4" points="43.946 -.404 -.317 35.722 -.317 -.404 43.946 -.404"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

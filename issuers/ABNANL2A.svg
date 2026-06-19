@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_1" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ecb73a;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #1b9b94;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-3" width="100" height="100" rx="11.484" ry="11.484"/>
+    </clipPath>
+  </defs>
+  <g id="Basis">
+    <path class="cls-3" d="M11.484,0h77.032c6.343,0,11.484,5.142,11.484,11.484v77.032c0,6.343-5.142,11.484-11.484,11.484H11.484c-6.343,0-11.484-5.142-11.484-11.484V11.484C0,5.142,5.142,0,11.484,0Z"/>
+  </g>
+  <g id="Laag_1-2" data-name="Laag 1">
+    <g>
+      <rect class="cls-3" width="100" height="100" rx="11.484" ry="11.484"/>
+      <g class="cls-4">
+        <path class="cls-3" d="M11.484,0h77.032c6.343,0,11.484,5.142,11.484,11.484v77.032c0,6.343-5.142,11.484-11.484,11.484H11.484c-6.343,0-11.484-5.142-11.484-11.484V11.484C0,5.142,5.142,0,11.484,0Z"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <path class="cls-2" d="M22.858,13.869h54.285v45.267l-26.996-26.937v53.933l-27.289-26.996V13.869Z"/>
+    <path class="cls-1" d="M50.146,86.131v-53.933l26.996,26.937-26.996,26.996h0Z"/>
+  </g>
+</svg>

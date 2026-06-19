@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_1" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3ddcb6;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: url(#Naamloos_verloop_4-2);
+      }
+
+      .cls-4 {
+        fill: url(#Naamloos_verloop_4);
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" width="100" height="100" rx="11.484" ry="11.484"/>
+    </clipPath>
+    <linearGradient id="Naamloos_verloop_4" data-name="Naamloos verloop 4" x1="37.207" y1="75.59" x2="62.795" y2="50.005" gradientTransform="translate(0 100) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3ddcb6" stop-opacity="0"/>
+      <stop offset="1" stop-color="#3ddcb6"/>
+    </linearGradient>
+    <linearGradient id="Naamloos_verloop_4-2" data-name="Naamloos verloop 4" x1="62.791" y1="24.41" x2="37.203" y2="49.995" xlink:href="#Naamloos_verloop_4"/>
+  </defs>
+  <g id="Basis">
+    <path class="cls-2" d="M11.484,0h77.032c6.343,0,11.484,5.142,11.484,11.484v77.032c0,6.343-5.142,11.484-11.484,11.484H11.484c-6.343,0-11.484-5.142-11.484-11.484V11.484C0,5.142,5.142,0,11.484,0Z"/>
+  </g>
+  <g id="Laag_1-2" data-name="Laag 1">
+    <g>
+      <rect class="cls-2" width="100" height="100" rx="11.484" ry="11.484"/>
+      <g class="cls-5">
+        <path class="cls-2" d="M11.484,0h77.032c6.343,0,11.484,5.142,11.484,11.484v77.032c0,6.343-5.142,11.484-11.484,11.484H11.484c-6.343,0-11.484-5.142-11.484-11.484V11.484C0,5.142,5.142,0,11.484,0Z"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <path class="cls-4" d="M24.415,37.204l25.585-25.588,25.585,25.588-13.432,13.434-37.738-13.434Z"/>
+    <path class="cls-3" d="M75.584,62.796l-25.585,25.588-25.585-25.588,13.432-13.434,37.738,13.434Z"/>
+    <path class="cls-1" d="M11.623,50.005l12.792-12.794c7.065-7.066,18.52-7.066,25.585,0l12.792,12.794,12.793-12.794,12.792,12.794-13.083,13.084c-6.905,6.906-18.1,6.906-25.005,0l-13.083-13.084-12.792,12.794-12.792-12.794Z"/>
+  </g>
+</svg>
