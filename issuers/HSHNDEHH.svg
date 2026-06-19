@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_1" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1d1d1b;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M90,100H10c-5.5,0-10-4.5-10-10V10C0,4.5,4.5,0,10,0h80c5.5,0,10,4.5,10,10v80c0,5.5-4.5,10-10,10Z"/>
+  <g id="Page-Types_-Templates_-Modules" data-name="Page-Types,-Templates,-Modules">
+    <g id="CONTENT-Desktop">
+      <g id="Header-Default">
+        <g id="Logo-Placement">
+          <g id="Group-34">
+            <path id="Fill-32" class="cls-2" d="M52.5,36.3c9.1,0,16.4,7.4,16.4,16.4s-7.4,16.4-16.4,16.4v11h0c15.2,0,27.6-12.3,27.6-27.5s-2.3-12.1-6.5-16.6h-21.1v.2Z"/>
+            <path id="Fill-33" class="cls-2" d="M25.7,69.2c-3.3-4.8-5.2-9.7-5.7-17-1.1-15.6,12.9-32.4,32.5-32.4v16.4c-9.1,0-16.4,7.4-16.4,16.4s7.4,16.4,16.4,16.4v.2h-26.7"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

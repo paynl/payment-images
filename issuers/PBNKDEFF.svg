@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_1" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #dc0814;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #ffd000;
+      }
+
+      .cls-3 {
+        fill: #281e69;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M90,100H10c-5.5,0-10-4.5-10-10V10C0,4.5,4.5,0,10,0h80c5.5,0,10,4.5,10,10v80c0,5.5-4.5,10-10,10Z"/>
+  <g>
+    <path class="cls-3" d="M42.7,26.8l29.5-.8c-22.9,13.8-30.6,34.9-32.5,47.9H14.4c1.9-14.3,13.3-37.9,28.3-47.1h0Z"/>
+    <path class="cls-3" d="M85.6,45.6c-11.7,7.4-15.1,19-15.8,23.4h-7.6c1.3-7.8,6.2-17.9,13.4-23.2,0,0,10-.2,10-.2h0Z"/>
+    <path class="cls-1" d="M63,38.3l17.3-.5c-14.2,7.5-21.3,23.4-22.4,33.2h-13.1c1.1-8,6.6-23.8,18.3-32.7h0Z"/>
+  </g>
+</svg>
